@@ -3,7 +3,7 @@
 - 👀 Interests: Game Development, AI Engineering, Data Analysis  
 - 🌱 Currently learning Software Development in high school  
 - 💞️ Looking to collaborate on open-source projects using:  
-  PHP, React.js, Next.js, Express.js, Python, TailwindCSS  
+  PHP, React.js, Next.js, Express.js, Python,Typescript, TailwindCSS  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love games, technology, and pets  
 
